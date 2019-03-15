@@ -4,7 +4,7 @@ session_start();
 include ("db.php");
 include ("utils.php");
 
-$view ='login';
+$view ='welcome';
 
 if(isset($_GET['view'])) {
 	$view = $_GET['view'];

@@ -218,7 +218,7 @@ function closeNav() {
 </div>
 
 
-<!--search recepata-->
+<!--prikaz recepata-->
 <div class="container-fluid" id="slikaPozadina">
 	<div class="row content">
 	<div class="col-sm-2 ">
